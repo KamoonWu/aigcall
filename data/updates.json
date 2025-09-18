@@ -1,0 +1,92 @@
+{
+    "lastUpdated": "2024-01-15",
+    "majorUpdates": [
+        {
+            "id": 1,
+            "date": "2024-01-15",
+            "title": "OpenAI发布GPT-4 Turbo更新",
+            "description": "GPT-4 Turbo模型获得重大更新，支持更长的上下文窗口和更高的准确性",
+            "category": "语言模型",
+            "importance": "high",
+            "toolName": "ChatGPT",
+            "toolUrl": "https://chat.openai.com",
+            "icon": "icons/chatgpt.png"
+        },
+        {
+            "id": 2,
+            "date": "2024-01-14",
+            "title": "Midjourney V6版本正式发布",
+            "description": "Midjourney推出V6版本，图像生成质量显著提升，支持更精细的细节控制",
+            "category": "图像生成",
+            "importance": "high",
+            "toolName": "Midjourney",
+            "toolUrl": "https://www.midjourney.com",
+            "icon": "icons/midjourney.png"
+        },
+        {
+            "id": 3,
+            "date": "2024-01-13",
+            "title": "Anthropic发布Claude 2.1",
+            "description": "Claude 2.1版本发布，支持20万token上下文，减少幻觉现象",
+            "category": "语言模型",
+            "importance": "high",
+            "toolName": "Claude",
+            "toolUrl": "https://claude.ai",
+            "icon": "icons/claude.png"
+        },
+        {
+            "id": 4,
+            "date": "2024-01-12",
+            "title": "Notion AI功能全面升级",
+            "description": "Notion AI新增智能总结、翻译和代码生成功能，提升工作效率",
+            "category": "办公工具",
+            "importance": "medium",
+            "toolName": "Notion AI",
+            "toolUrl": "https://www.notion.so",
+            "icon": "icons/notion.png"
+        },
+        {
+            "id": 5,
+            "date": "2024-01-11",
+            "title": "Adobe Firefly 2.0发布",
+            "description": "Adobe Firefly 2.0带来更好的图像生成质量和商业安全的内容",
+            "category": "图像生成",
+            "importance": "medium",
+            "toolName": "Adobe Firefly",
+            "toolUrl": "https://firefly.adobe.com",
+            "icon": "icons/firefly.png"
+        }
+    ],
+    "recentUpdates": [
+        {
+            "id": 6,
+            "date": "2024-01-15",
+            "title": "Canva AI设计工具更新",
+            "description": "新增AI驱动的品牌套件和智能布局建议功能",
+            "category": "设计工具",
+            "importance": "low",
+            "toolName": "Canva",
+            "toolUrl": "https://www.canva.com"
+        },
+        {
+            "id": 7,
+            "date": "2024-01-14",
+            "title": "Grammarly推出企业版AI助手",
+            "description": "专为企业团队设计的AI写作和沟通助手",
+            "category": "写作工具",
+            "importance": "low",
+            "toolName": "Grammarly",
+            "toolUrl": "https://www.grammarly.com"
+        },
+        {
+            "id": 8,
+            "date": "2024-01-13",
+            "title": "Figma AI功能增强",
+            "description": "新增AI驱动的原型生成和设计建议功能",
+            "category": "设计工具",
+            "importance": "low",
+            "toolName": "Figma",
+            "toolUrl": "https://www.figma.com"
+        }
+    ]
+}

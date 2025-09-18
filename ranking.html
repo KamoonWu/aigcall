@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI产品排行榜 - AI工具集</title>
+    <meta name="description" content="AI工具排行榜，发现最受欢迎的AI产品">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <!-- 顶部导航 -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <h1>AI工具集</h1>
+            </div>
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li><a href="index.html" class="nav-link">AI工具集</a></li>
+                    <li><a href="daily-news.html" class="nav-link">每日AI资讯</a></li>
+                    <li><a href="ranking.html" class="nav-link active">AI排行榜</a></li>
+                    <li><a href="updates.html" class="nav-link">重大更新</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- 主要内容区域 -->
+    <main class="main">
+        <div class="container">
+            <!-- 标题区域 -->
+            <section class="ranking-header">
+                <h2 class="main-title">AI产品排行榜</h2>
+                <p class="ranking-subtitle">基于用户评价、功能完整性和创新性综合评分</p>
+                <div class="ranking-update-time">
+                    最后更新：<span id="update-time">加载中...</span>
+                </div>
+            </section>
+
+            <!-- 排行榜内容 -->
+            <section class="ranking-section">
+                <div id="ranking-container">
+                    <!-- 动态加载排行榜数据 -->
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 AI工具集. 所有权利保留.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/ranking.js"></script>
+</body>
+</html>

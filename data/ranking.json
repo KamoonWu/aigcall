@@ -1,0 +1,92 @@
+{
+  "lastUpdated": "2024-09-17",
+  "categories": [
+    {
+      "name": "AI聊天助手",
+      "tools": [
+        {
+          "rank": 1,
+          "name": "ChatGPT",
+          "description": "OpenAI的旗舰对话AI",
+          "score": 9.5,
+          "trend": "up",
+          "icon": "icons/chatgpt.png"
+        },
+        {
+          "rank": 2,
+          "name": "文心一言",
+          "description": "百度的中文对话AI",
+          "score": 8.8,
+          "trend": "up",
+          "icon": "icons/wenxin.png"
+        },
+        {
+          "rank": 3,
+          "name": "通义千问",
+          "description": "阿里巴巴的对话AI",
+          "score": 8.6,
+          "trend": "stable",
+          "icon": "icons/tongyi.png"
+        }
+      ]
+    },
+    {
+      "name": "AI写作工具",
+      "tools": [
+        {
+          "rank": 1,
+          "name": "光速写作",
+          "description": "高效的AI写作助手",
+          "score": 9.2,
+          "trend": "up",
+          "icon": "icons/写作/光速写作.png"
+        },
+        {
+          "rank": 2,
+          "name": "火龙果写作",
+          "description": "智能写作和改写工具",
+          "score": 8.9,
+          "trend": "up",
+          "icon": "icons/写作/火龙果写作.png"
+        },
+        {
+          "rank": 3,
+          "name": "彩云小梦",
+          "description": "创意写作AI助手",
+          "score": 8.5,
+          "trend": "stable",
+          "icon": "icons/写作/彩云小梦.png"
+        }
+      ]
+    },
+    {
+      "name": "AI图像工具",
+      "tools": [
+        {
+          "rank": 1,
+          "name": "Midjourney",
+          "description": "顶级AI图像生成",
+          "score": 9.4,
+          "trend": "up",
+          "icon": "icons/midjourney.png"
+        },
+        {
+          "rank": 2,
+          "name": "Stable Diffusion",
+          "description": "开源图像生成模型",
+          "score": 9.0,
+          "trend": "stable",
+          "icon": "icons/stablediffusion.png"
+        },
+        {
+          "rank": 3,
+          "name": "DALL·E 3",
+          "description": "OpenAI的图像生成",
+          "score": 8.8,
+          "trend": "up",
+          "icon": "icons/dalle.png"
+        }
+      ]
+    }
+  ]
+}
